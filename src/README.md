@@ -6,4 +6,4 @@ Dependencies were frozen to requirements.txt in the root directory of the projec
 
 The final code is in the `./notebooks/01_clt_rm_full_project.ipynb` notebook.
 
-The final code as an html file is in the `./notebooks/01_clt_rm_full_project.html` file.
+The final code as an html file is in the `../01_clt_rm_full_project.html` file.
